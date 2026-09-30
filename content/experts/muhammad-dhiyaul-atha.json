@@ -1,0 +1,12 @@
+{
+  "name": "Muhammad Dhiyaul Atha",
+  "title": "Software Engineer & DevOps Enthusiast",
+  "bio": "Open-source builder and software engineer passionate about backend systems, Linux infrastructure, and automation.",
+  "avatar": "/images/experts/muhammad-dhiyaul-atha.png",
+  "skills": ["Docker", "Kubernetes", "Linux", "Laravel", "Python", "Go", "TypeScript"],
+  "location": "Aceh, Indonesia",
+  "website": "https://mdhiyaulatha.me",
+  "github": "mdhiyaulatha",
+  "linkedin": "mdhiyaulatha",
+  "available": true
+}
